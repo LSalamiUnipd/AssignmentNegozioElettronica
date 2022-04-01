@@ -5,4 +5,6 @@
 	schede madri
 	processori
 
+## periferiche
+
 Elettronica Padovana
